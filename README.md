@@ -1,4 +1,6 @@
 # Nayan AI - Hands-Free OS Control
+![Python](https://img.shields.io/badge/Python-3.10-blue.svg) ![MediaPipe](https://img.shields.io/badge/MediaPipe-FaceLandmarker-orange.svg) ![CustomTkinter](https://img.shields.io/badge/UI-CustomTkinter-brightgreen.svg)
+
 Created by Prasun for Minor Project Evaluation.
 
 This project is a software-based alternative to expensive hardware like Tobii Dynavox. It helps people with ALS or paralysis control their computers using just their eyes and facial expressions.
