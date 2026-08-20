@@ -1,0 +1,8 @@
+mediapipe==0.10.14
+opencv-python
+customtkinter
+pyautogui
+SpeechRecognition
+PyAudio
+pyttsx3
+fpdf2
